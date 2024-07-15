@@ -65,7 +65,7 @@ On using the command `npm run subtotal`, you can expect a response that looks si
 
 ### Updating the basket
 
-To change the basket contents, navigate to /src/data/basket-data.json
+To change the basket contents, navigate to /src/data/basket-data.json and change the figures next to "quantity".
 
 ### Dependencies
 
