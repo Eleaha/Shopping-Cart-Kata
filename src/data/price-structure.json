@@ -1,0 +1,18 @@
+{
+	"A": {
+		"unitPrice": 50,
+		"bundleSize": 3,
+		"bundlePrice": 140
+	},
+	"B": {
+		"unitPrice": 35,
+		"bundleSize": 2,
+		"bundlePrice": 60
+	},
+	"C": {
+		"unitPrice": 25
+	},
+	"D": {
+		"unitPrice": 12
+	}
+}
